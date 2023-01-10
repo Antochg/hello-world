@@ -48,5 +48,8 @@ pipeline {
                 docker run -it antochg/hello-world-app
             }
         }
+
+
+        
     }
 }
